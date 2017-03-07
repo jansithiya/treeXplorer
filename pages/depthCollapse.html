@@ -1,0 +1,203 @@
+<!-- UI for main App age with control panel in the side to set/change values for parameter and additional options bar in
+top which in general to change the style/layout for visualization, option to export/download the image, etc., !-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PhyloXplore: Visual Exploration of Large Phylogenetic Trees </title>
+
+    <!-- ***************************************** CSS Dependencies ************************************************** !-->
+    <!-- Bootstrap Core CSS !-->
+    <link href="../css/vendor/bootstrap-3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font-Awesome //For Glyphicons !-->
+    <link href="../css/vendor/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <!--  home page custom !-->
+    <link href="../css/custom_Controls_V1.css" rel="stylesheet">
+    <!-- Visualization tree !-->
+    <link href="../css/treeRender.css" rel="stylesheet">
+
+
+</head>
+<body>
+<div class="container-fluid" id="start">
+    <div class="row">
+        <!-- * Sidebar for key controls !-->
+        <div class="col-md-2 sidebar" id="control">
+            <div class="sidebar-nav-fixed affix">
+
+                <!-- Parameter Control Heading !-->
+                <div class="panel panel-default sidebarTitle">
+                    <div class="panel-body"> Parameter Settings</div>
+                </div>
+
+                <!-- Parameter Control Options !-->
+                <ul class="nav side-menu">
+
+                    <li><a> <i class="fa fa-tree icon p p1" aria-hidden="true"></i>&nbsp; Tree <span
+                            class="fa fa-chevron-down d d1"></span></a>
+                        <ul class="nav child_menu pc pc1">
+
+                            <li>
+                                <a>
+                                    <label for="treeType" class="pclabel"> Type:</label>
+                                    <select class="form-control dropdown pcControl dd1" id="treeType">
+                                        <option>Regular</option>
+                                        <option>Dendogram</option>
+                                    </select>
+
+                                </a>
+                            </li>
+
+                            <li>
+                                <a>
+                                    <label for="links" class="pclabel"> Links:</label>
+                                    <select class="form-control dropdown pcControl dd1" id="links">
+                                        <option> Normal</option>
+                                        <option> Curved</option>
+                                        <option> Slanted</option>
+                                    </select>
+
+                                </a>
+                            </li>
+
+                            <li>
+                                <a>
+                                    <label for="curvature" class="pclabel"> Curvature:</label>
+                                    <div id="curvature" class="slider sNormal curvature"></div>
+                                </a>
+                            </li>
+
+
+                        </ul>
+                    </li>
+                    <li><a> <i class="fa fa-cog icon p p2" aria-hidden="true"></i>&nbsp; Advanced <span
+                            class="fa fa-chevron-down d d2"></span></a>
+                        <ul class="nav child_menu pc pc2">
+                            <li>
+                                <a>
+                                    <label for="depthSlider" class="pclabel"> Collapse by Depth:</label>
+                                    <input id="depthSlider" type="range" step="1">
+                                </a>
+                            </li>
+
+
+
+                        </ul>
+                    </li>
+
+                    <li><a> <i class="fa fa-font icon p p3" aria-hidden="true"></i>&nbsp; Style <span
+                            class="fa fa-chevron-down d d3"></span></a>
+                        <ul class="nav child_menu pc pc3">
+                            <li>
+                                <a>
+                                    <label class="pclabel"> NODE LABEL:</label>
+                                    <div class="btn-group btn-toggle toggle1">
+                                        <button class="btn btn-xs btn-default">SHOW</button>
+                                        <button class="btn btn-xs btn-primary active">HIDE</button>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a>
+                                    <label class="pclabel"> EDGE LABEL:</label>
+                                    <div class="btn-group btn-toggle toggle2" id="toggle2">
+                                        <button class="btn btn-xs btn-default">SHOW</button>
+                                        <button class="btn btn-xs btn-primary active">HIDE</button>
+                                    </div>
+                                </a>
+                            </li>
+
+
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- /End of sidebar for controls !-->
+
+        <!--   Top Navigation bar and container for main visualization !-->
+        <div class="col-sm-9 col-md-10">
+            <div class="row">
+                <div class="navbar navbar-inverse navbar-fixed-top topnav">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand"><span class="glyphicon glyphicon-tasks controlToggle"> </span></a>
+                        </div>
+                        <div class="nav navbar-nav">
+                            <div class="svgSize">
+                                <button type="button" class="navControl" id="increaseWidth">
+                                    <span class="glyphicon glyphicon-plus"></span>
+                                </button>
+                                <button type="button" class="navControl" id="decreaseWidth">
+                                    <span class="glyphicon glyphicon-minus"></span>
+                                </button>
+                                <button type="button" class="navControl">
+                                    <span class="glyphicon glyphicon-resize-full"></span>
+                                </button>
+                            </div>
+
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="myNavbar">
+
+                            <ul class="nav navbar-nav navbar-right">
+                                <li>
+                                    <div class="fileInput"><input type="file" id="file"/><span
+                                            class=" glyphicon glyphicon-file glyphTopnav" id="upload"></span></div>
+                                </li>
+                                <li><a href="#"><span class="glyphicon glyphicon-home glyphTopnav"></span></a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-info-sign glyphTopnav"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-11" id="visual">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+
+<!-- ****************************************** JavaScript Dependencies ********************************************** !-->
+<!-- jQuery !-->
+<script src="../js/vendor/jquery-3.1.1.min.js"></script>
+
+
+<!-- Bootstrap core !-->
+<script src="../js/vendor/bootstrap.min.js"></script>
+
+<!-- Custom script !-->
+
+<script src="../js/UI/custom_Controls_V1.js"></script>
+
+<!-- d3 core library !-->
+<script src="../js/vendor/d3.min.js"></script>
+
+<!-- Input File reader !-->
+<script src="../js/readFile.js"></script>
+
+<!-- Newick Parser !-->
+<script src="../js/newickParser.js"></script>
+
+<!-- TreeRender !-->
+<script src="../js/depthCollapse.js"></script>
+
+
+</body>
+</html>
+
+

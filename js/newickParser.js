@@ -1,5 +1,6 @@
 /**
- *
+ * Newick format parser in JavaScript based on Jason Davies and altered to handle BootStrap Value in the newick format
+
  * Example tree (from http://en.wikipedia.org/wiki/Newick_format):
  *
  * +--0.1--A

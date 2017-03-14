@@ -104,6 +104,28 @@ function initialSettings() {
  }
 
 ```
+##### Core Computations
+
+The block contains functions that computes advanced tree attributes that gets added to the nodes. This includes collapsing nodes by depth level, uncollapsing, finding highest collapsed node at an instance, find the longest branch length, etc., that has to do only with the parameters or value not the drawing itself
+
+###### Example
+```javascript
+
+function findHighestCollapsed(d) {
+    if (d.parent) {
+        if (d._children && d.parent.children) {
+            return d;
+        } else {
+            return (findHighestCollapsed(d.parent));
+        }
+    } else {
+        return d;
+    }
+}
+
+```
+
+##### Render/Draw
 
 
 

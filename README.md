@@ -10,7 +10,7 @@ phyXplorer interface allows to visualize and explore the newick formatted phylog
 phyXplorer uses JavaScript, HTML5 and svg element to visualize the phylogenetic tree. So it recommended to use modern browsers like chrome, firefox and safari, however, it is highly recommended to use Google Chrome as the application has been extensively tested in Chrome at the moment and also seem to offer the best performance.
 
 
-# **Data format **
+# **Data format**
 
 At the moment all the interfaces within phyXplorer only supports<a href="http://evolution.genetics.washington.edu/phylip/newicktree.html">Newick</a>formatted phylogenetic tree. Upload only the tree file in Newick tree format as below.
 <p><b>Example trees </p></b>

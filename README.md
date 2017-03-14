@@ -65,7 +65,7 @@ Used to change the display size of the tree such as increase the width and heigh
 
 As stated before phyXplorer makes use of browser to visualize and therefore we make use of JavaScript, SVG and Bootstrap for styling.
 
-####Key Dependencies
+#### Key Dependencies
 <ul>
 <li> <a href="https://d3js.org/">D3.js </a>
 <li> <a href="https://jquery.com/"> jQuery </a>

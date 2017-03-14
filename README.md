@@ -63,5 +63,15 @@ Used to change the display size of the tree such as increase the width and heigh
 
 # **Code Flow & How it Works** #
 
-The four key blocks of each app is "reading and parsing data", "apply initial settings", "core computations" and "render/draw". The flow is more or less the same across the different visual layout JavaScript files
+As stated before phyXplorer makes use of browser to visualize and therefore we make use of JavaScript, SVG and Bootstrap for styling.
+
+####Key Dependencies
+<ul>
+<li> <a href="https://d3js.org/">D3.js </a>
+<li> <a href="https://jquery.com/"> jQuery </a>
+</ul>
+
+All the external libraries used are under <b>vendor </b>directory for both css and js
+
+The four key blocks of each app is "reading and parsing data", "apply initial settings", "core computations" and "render/draw". The flow is more or less the same across the visual layout JavaScript files
 

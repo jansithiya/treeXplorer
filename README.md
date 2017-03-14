@@ -100,10 +100,10 @@ function initialSettings() {
 
        d3.hierarchy(tree);
        document.getElementById("depthSlider").value = maxDepth/2;
-
-
+       render();
  }
 
 ```
+
 
 

@@ -58,3 +58,10 @@ Used to change the display size of the tree such as increase the width and heigh
 
 
 ### 4. TreeMap Layout
+
+
+
+# **Code Flow & How it Works** #
+
+The four key blocks of each app is "reading and parsing data", "apply initial settings", "core computations" and "render/draw". The flow is more or less the same across the different visual layout JavaScript files
+

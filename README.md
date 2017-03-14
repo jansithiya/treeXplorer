@@ -127,5 +127,45 @@ function findHighestCollapsed(d) {
 
 ##### Render/Draw
 
+The render block actually draws the tree on browser leveraging mainly D3.js library and svg. The render function also comprises of updateTree block that gets executed every time a parameter is changed and redraws the tree in display area.
+Render block also contains the function that does some action when a change is detected in any of the html input elements such as slider, button, etc.,
 
+The updateTree block is all about entering,updating and exiting elements in the div which is core idea of d3 in aligning data with the elements we use to represent the data such as circle, rectangle.
+every time we filter the data and if we end up with more elements than needed then we use exit() selection to remove the additional elements from the view, similarly if we have need more elements to be added then we use enter
+
+###### Example
+
+```javascript
+
+function render(){
+
+    var drawSvg = d3.select("#visual").append("svg")
+        .style("width", width)
+        .style("height", height);
+
+          function updateTree(){
+
+          // enter, update and exit nodes and link of tree, rectangle, etc., that are part of the layout
+
+             var node = svg.selectAll('g.node')
+                         .data(nodes);
+
+             var enterNode = node.enter().append("circle");
+
+
+             var updateNode = node.select("cirlce")
+                         .attr("r",4);  //transition to new radius
+
+             var exitNode = node.exit().remove(); //remove when collapsed the nodes not needed
+
+          }
+
+        d3.select("#depthSlider").on("input", function () {
+
+            //some code to uncollapse or change the depth filter value
+              updateTree(); //redraw tree
+        });
+
+    }
+```
 

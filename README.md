@@ -75,3 +75,35 @@ All the external libraries used are under <b>vendor </b>directory for both css a
 
 The four key blocks of each app is "reading and parsing data", "apply initial settings", "core computations" and "render/draw". The flow is more or less the same across the visual layout JavaScript files
 
+##### Reading and Parsing
+
+The main JavaScript file for each design discussed starts by getting the Newick input data read(readFile.js)from the browser and the read data is passed to parseNewick which converts the Newick to hierarchical JSON structure. parseNewick utilizes regular expression for the same.
+
+```javascript
+function getData(input) {
+
+    tree = parseNewick(input);
+    initialSettings();
+}
+
+```
+
+##### Initial Settings Block
+
+The code within this applies default settings to the html elements in the sidebar (parameter controls). For example the depth max and min value computed from the tree data passed to hierarchy layout is used to define min, max and default value of the depth collapse slider
+The block also defines basic tree attributes which will be used in the later blocks.
+The block sample below.
+
+```javascript
+
+function initialSettings() {
+
+       d3.hierarchy(tree);
+       document.getElementById("depthSlider").value = maxDepth/2;
+
+
+ }
+
+```
+
+

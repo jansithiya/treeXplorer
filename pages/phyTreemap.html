@@ -40,12 +40,26 @@ top which in general to change the style/layout for visualization, option to exp
                                 <a>
                                     <label for="tileType" class="pclabel"> Tile</label>
                                     <select class="form-control dropdown pcControl dd1" id="tileType">
+                                        <option value="d3.treemapSquarify">Squarify</option>
                                         <option value="d3.treemapSliceDice">Slice&Dice</option>
                                         <option value="d3.treemapBinary">Binary</option>
-                                        <option value="d3.treemapSquarify">Squarify</option>
                                         <option value="d3.treemapResquarify">ReSquarify</option>
                                     </select>
 
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li><a> <i class="fa fa-cog icon p p2" aria-hidden="true"></i>&nbsp; Advanced <span
+                            class="fa fa-chevron-down d d2"></span></a>
+                        <ul class="nav child_menu pc pc2">
+                            <li>
+                                <a>
+                                    <label for="colorLeavesON" class="pclabel"> Color Leaves by Branch
+                                        Length from Root</label><br/>
+                                    <input type="radio" name="colors" id="colorLeavesON"> ON
+                                    <input type="radio" name="colors" id="colorLeavesOFF"> OFF
                                 </a>
                             </li>
                         </ul>
@@ -135,7 +149,7 @@ top which in general to change the style/layout for visualization, option to exp
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-9 col-md-10" id="overview"></div>
+                <div class="col-xs-9 col-md-10" id="legend"></div>
             </div>
             <div class="row">
                 <div class="col-xs-9 col-md-10" id="visual"></div>

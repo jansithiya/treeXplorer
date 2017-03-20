@@ -17,8 +17,6 @@ top which in general to change the style/layout for visualization, option to exp
     <link href="../css/custom_Controls_V1.css" rel="stylesheet">
     <!-- Visualization tree !-->
     <link href="../css/treeRender.css" rel="stylesheet">
-
-
 </head>
 <body>
 <div class="container-fluid" id="start">
@@ -46,29 +44,17 @@ top which in general to change the style/layout for visualization, option to exp
                                         <option>Regular</option>
                                         <option>Dendogram</option>
                                     </select>
-
                                 </a>
                             </li>
-
                             <li>
                                 <a>
-                                    <label for="links" class="pclabel"> Links:</label>
-                                    <select class="form-control dropdown pcControl dd1" id="links">
-                                        <option> Normal</option>
-                                        <option> Curved</option>
-                                        <option> Slanted</option>
+                                    <label for="treeMap" class="pclabel"> TreeMap:</label>
+                                    <select class="form-control dropdown pcControl dd1" id="treeMap">
+                                        <option>Basic</option>
+                                        <option>Nested</option>
                                     </select>
-
                                 </a>
                             </li>
-
-                            <li>
-                                <a>
-                                    <label for="curvature" class="pclabel"> Curvature:</label>
-                                    <div id="curvature" class="slider sNormal curvature"></div>
-                                </a>
-                            </li>
-
 
                         </ul>
                     </li>
@@ -81,7 +67,6 @@ top which in general to change the style/layout for visualization, option to exp
                                     <input id="depthSlider" type="range" step="1">
                                 </a>
                             </li>
-
 
 
                         </ul>
@@ -133,13 +118,19 @@ top which in general to change the style/layout for visualization, option to exp
                         </div>
                         <div class="nav navbar-nav">
                             <div class="svgSize">
-                                <button type="button" class="navControl" id="increaseWidth">
-                                    <span class="glyphicon glyphicon-plus"></span>
-                                </button>
                                 <button type="button" class="navControl" id="decreaseWidth">
-                                    <span class="glyphicon glyphicon-minus"></span>
+                                    <span class="glyphicon glyphicon glyphicon-arrow-left"></span>
                                 </button>
-                                <button type="button" class="navControl">
+                                <button type="button" class="navControl" id="increaseWidth">
+                                    <span class="glyphicon glyphicon glyphicon-arrow-right"></span>
+                                </button>
+                                <button type="button" class="navControl" id="increaseHeight">
+                                    <span class="glyphicon glyphicon glyphicon-arrow-up"></span>
+                                </button>
+                                <button type="button" class="navControl" id="decreaseHeight">
+                                    <span class="glyphicon glyphicon glyphicon glyphicon-arrow-down"></span>
+                                </button>
+                                <button type="button" class="navControl" id="restoreSize">
                                     <span class="glyphicon glyphicon-resize-full"></span>
                                 </button>
                             </div>
@@ -160,15 +151,14 @@ top which in general to change the style/layout for visualization, option to exp
                     </div>
                 </div>
             </div>
-
-            <div class="col-md-11" id="visual">
-
+            <div class="row">
+                <div class="col-xs-9 col-md-10" id="overview"></div>
+            </div>
+            <div class="row">
+                <div class="col-xs-9 col-md-10" id="visual"></div>
             </div>
         </div>
     </div>
-</div>
-
-
 </div>
 
 

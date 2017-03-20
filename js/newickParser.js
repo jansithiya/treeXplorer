@@ -1,5 +1,6 @@
 /**
  * Newick format parser in JavaScript based on Jason Davies and altered to handle BootStrap Value in the newick format
+<<<<<<< Updated upstream
 
  * Example tree (from http://en.wikipedia.org/wiki/Newick_format):
  *
@@ -8,6 +9,9 @@
  * +------------------0.5-----E
  *                            +---------0.4------D
  *
+=======
+ * 
+>>>>>>> Stashed changes
  * Newick format:
  * (A:0.1,B:0.2,(C:0.3,D:0.4)E:0.5)F;
  *
@@ -49,6 +53,7 @@ function parseNewick(a) {
             case",":
                 var c = {};
                 e[e.length - 1].children.push(c), r = c;
+
                 break;
             case")":
                 r = e.pop();
@@ -57,8 +62,10 @@ function parseNewick(a) {
                 break;
             default:
                 var h = s[t - 1];
-                ")" == h || "(" == h || "," == h ? r.name = n : ":" == h && (r.length = parseFloat(n))
+                var id = "id".concat(t);
+                ")" == h || "(" == h || "," == h ? (r.names = n, r.name = id) : ":" == h && (r.length = parseFloat(n))
         }
+
     }
     return r
 }

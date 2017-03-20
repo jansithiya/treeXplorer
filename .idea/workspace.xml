@@ -1,287 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48bde673-f16c-4399-ad00-1ac542b41d82" name="Default" comment="Init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/membermeister.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/snapappointments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/solveforall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/thermofisher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phyXplorer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom_Controls_V1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/treeMap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/treeRender.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ar_AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ar_AR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-bg_BG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-bg_BG.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cro_CRO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cro_CRO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cs_CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cs_CZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-da_DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-da_DK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-de_DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-de_DE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-en_US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-en_US.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-es_CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-es_CL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-eu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fa_IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fa_IR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fi_FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fi_FI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fr_FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fr_FR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-hu_HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-hu_HU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-id_ID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-id_ID.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-it_IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-it_IT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ko_KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ko_KR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-lt_LT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-lt_LT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nb_NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nb_NO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nl_NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nl_NL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pl_PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pl_PL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_PT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ro_RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ro_RO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ru_RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ru_RU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sk_SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sk_SK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sl_SI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sl_SI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sv_SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sv_SE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-tr_TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-tr_TR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ua_UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ua_UA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/js/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/toc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ar_AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ar_AR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-bg_BG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-bg_BG.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cro_CRO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cro_CRO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cs_CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cs_CZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-da_DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-da_DK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-de_DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-de_DE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-en_US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-en_US.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-es_CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-es_CL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-eu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fa_IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fa_IR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fi_FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fi_FI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fr_FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fr_FR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-hu_HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-hu_HU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-id_ID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-id_ID.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-it_IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-it_IT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ko_KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ko_KR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-lt_LT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-lt_LT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nb_NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nb_NO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nl_NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nl_NL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pl_PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pl_PL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_PT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ro_RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ro_RO.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ru_RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ru_RU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sk_SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sk_SK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sl_SI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sl_SI.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sv_SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sv_SE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-tr_TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-tr_TR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ua_UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ua_UA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/examples.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/methods.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/options.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/mkdocs.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/bootstrap-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ar_AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-bg_BG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-cro_CRO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-cs_CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-da_DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-de_DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-en_US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-es_CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fa_IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fi_FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fr_FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-hu_HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-id_ID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-it_IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ko_KR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-lt_LT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-nb_NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-nl_NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pl_PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pt_PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ro_RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ru_RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sk_SK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sl_SI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sv_SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-tr_TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ua_UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/less/bootstrap-select.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/nuget/MyGet.ps1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/nuget/bootstrap-select.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/sass/bootstrap-select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/sass/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/font-awesome-4.6.3/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/UI/custom_Controls_V1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/depthCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/depthCollapse_Treemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/newickParser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/readFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/d3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery-3.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/depthCollapse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/depthCollapse_Treemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/depthCollapse_subWindow.html" />
+    <list default="true" id="48bde673-f16c-4399-ad00-1ac542b41d82" name="Default" comment="Newick parser that handles bootstrap value">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/doi_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/doi_1.png" afterPath="$PROJECT_DIR$/assets/doi_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/treemap_1.png" afterPath="$PROJECT_DIR$/assets/treemap_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/depthCollapse.js" afterPath="$PROJECT_DIR$/js/depthCollapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/newickParser.js" afterPath="$PROJECT_DIR$/js/newickParser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/newickParser_BS.js" afterPath="$PROJECT_DIR$/js/newickParser_BS.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/depthCollapse.html" afterPath="$PROJECT_DIR$/pages/depthCollapse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/depthCollapse_Treemap.html" afterPath="$PROJECT_DIR$/pages/depthCollapse_Treemap.html" />
     </list>
     <ignored path="phyXplorer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -297,37 +28,99 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="phyXplorer" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="custom_Controls_V1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/UI/custom_Controls_V1.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="doiTree.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/doiTree.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="397">
+              <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="depthCollapse_subWindow.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/depthCollapse_subWindow.html">
+      <file leaf-file-name="doi_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/doi_1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doi_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/doi_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phyTreemap.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/phyTreemap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="328">
+              <caret line="85" column="25" selection-start-line="85" selection-start-column="25" selection-end-line="93" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="109" column="55" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treemap_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/treemap_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treemap_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/treemap_1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doi_Calculation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="515" column="6" selection-start-line="515" selection-start-column="6" selection-end-line="540" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="depthCollapse_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/depthCollapse_1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phyTreemap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/phyTreemap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="450" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -338,7 +131,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -348,6 +143,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/css/index.css" />
+        <option value="$PROJECT_DIR$/js/DOI_Render.js" />
+        <option value="$PROJECT_DIR$/js/doi.js" />
+        <option value="$PROJECT_DIR$/data/TEST.TXT" />
+        <option value="$PROJECT_DIR$/pages/depthCollapse.html" />
+        <option value="$PROJECT_DIR$/js/depthCollapse_Treemap.js" />
+        <option value="$PROJECT_DIR$/js/depthCollapse.js" />
+        <option value="$PROJECT_DIR$/pages/depthCollapse_Treemap.html" />
+        <option value="$PROJECT_DIR$/css/custom_Controls_V1.css" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/mkdocs.yml" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/js/newickParser_BS.js" />
+        <option value="$PROJECT_DIR$/js/newickParser.js" />
+        <option value="$PROJECT_DIR$/css/custom_DOI.css" />
+        <option value="$PROJECT_DIR$/js/doi_Calculation.js" />
+        <option value="$PROJECT_DIR$/pages/doiTree.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/js/vendor/d3-scale-chromatic.js" />
+        <option value="$PROJECT_DIR$/pages/phyTreemap.html" />
+        <option value="$PROJECT_DIR$/css/treeMap.css" />
+        <option value="$PROJECT_DIR$/js/phyTreemap.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -358,9 +175,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
@@ -390,8 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -424,8 +241,52 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phyXplorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phyXplorer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phyXplorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phyXplorer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phyXplorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phyXplorer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -434,10 +295,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/Cellar/node/5.5.0/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -456,6 +323,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -469,6 +342,12 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,HIDE_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="48bde673-f16c-4399-ad00-1ac542b41d82" name="Default" comment="" />
@@ -476,12 +355,203 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488898957207</updated>
-      <workItem from="1488898958469" duration="2072000" />
+      <workItem from="1488898958469" duration="6691000" />
+      <workItem from="1488915771423" duration="13732000" />
+      <workItem from="1489064897252" duration="230000" />
+      <workItem from="1489065179995" duration="19850000" />
+      <workItem from="1489399372300" duration="25736000" />
+      <workItem from="1489478060752" duration="11594000" />
+      <workItem from="1489508608064" duration="217000" />
+      <workItem from="1489508829224" duration="5796000" />
+      <workItem from="1489515035312" duration="17610000" />
+      <workItem from="1489576373056" duration="780000" />
+      <workItem from="1489612777639" duration="2357000" />
+      <workItem from="1489704284820" duration="276000" />
+      <workItem from="1489740884528" duration="765000" />
+      <workItem from="1489776240227" duration="2258000" />
+      <workItem from="1490001258556" duration="3432000" />
+      <workItem from="1490017206508" duration="426000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1488901300098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488901300098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Newick parser that handles bootstrap value">
+      <created>1488901892681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488901892681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="doI calculation with updated tree block">
+      <created>1488906331498</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1488906331498</updated>
+    </task>
+    <task id="LOCAL-00004" summary="link to visualize different design with sample image added">
+      <created>1488923760399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1488923760399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Asset - screenshots added">
+      <created>1488923836532</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488923836532</updated>
+    </task>
+    <task id="LOCAL-00006" summary="doiTree html page_1">
+      <created>1489452545490</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489452545490</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DOI Wrapper included">
+      <created>1489452583894</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1489452583894</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Readme_ till UI">
+      <created>1489479574045</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1489479574045</updated>
+    </task>
+    <task id="LOCAL-00009" summary="assets">
+      <created>1489479629229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1489479629229</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Minor text correction">
+      <created>1489479692160</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1489479692160</updated>
+    </task>
+    <task id="LOCAL-00011" summary="minor">
+      <created>1489479748419</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1489479748419</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Code flow to edit">
+      <created>1489480419964</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1489480419964</updated>
+    </task>
+    <task id="LOCAL-00013" summary="more code flow">
+      <created>1489501517968</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1489501517968</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Code flow">
+      <created>1489501557203</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1489501557203</updated>
+    </task>
+    <task id="LOCAL-00015" summary="readme more">
+      <created>1489504159574</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1489504159574</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Newick parser that handles bootstrap value">
+      <created>1489504239470</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1489504239470</updated>
+    </task>
+    <task id="LOCAL-00017" summary="more readme">
+      <created>1489506070939</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1489506070939</updated>
+    </task>
+    <task id="LOCAL-00018" summary="readme">
+      <created>1489507220691</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1489507220691</updated>
+    </task>
+    <task id="LOCAL-00019" summary="init">
+      <created>1489518838972</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1489518838972</updated>
+    </task>
+    <task id="LOCAL-00020" summary="treemap with color scheme">
+      <created>1489518865410</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1489518865410</updated>
+    </task>
+    <task id="LOCAL-00021" summary="all link">
+      <created>1489518950224</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1489518950224</updated>
+    </task>
+    <task id="LOCAL-00022" summary="complete tooltip">
+      <created>1489537195430</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1489537195430</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added all controls">
+      <created>1489537227846</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1489537227846</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Complete styling for treemap">
+      <created>1489537264100</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1489537264100</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated custom">
+      <created>1489537385819</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1489537385819</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2072000" />
+    <option name="totallyTimeSpent" value="111750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,76 +563,444 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="23" width="1440" height="873" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5028612" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847682" sideWeight="0.49713877" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5125828" sideWeight="0.49713877" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08655222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847682" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="doI calculation with updated tree block" />
+    <MESSAGE value="link to visualize different design with sample image added" />
+    <MESSAGE value="Asset - screenshots added" />
+    <MESSAGE value="doiTree html page_1" />
+    <MESSAGE value="DOI Wrapper included" />
+    <MESSAGE value="Readme_ till UI" />
+    <MESSAGE value="assets" />
+    <MESSAGE value="Minor text correction" />
+    <MESSAGE value="minor" />
+    <MESSAGE value="Code flow to edit" />
+    <MESSAGE value="more code flow" />
+    <MESSAGE value="Code flow" />
+    <MESSAGE value="readme more" />
+    <MESSAGE value="more readme" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Newick parser that handles bootstrap value" />
+    <MESSAGE value="treemap with color scheme" />
+    <MESSAGE value="all link" />
+    <MESSAGE value="complete tooltip" />
+    <MESSAGE value="Added all controls" />
+    <MESSAGE value="Complete styling for treemap" />
+    <MESSAGE value="Updated custom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated custom" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/UI/custom_Controls_V1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/test.html">
+    <entry file="file://$PROJECT_DIR$/js/depthCollapse.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/depthCollapse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="180" column="53" selection-start-line="180" selection-start-column="53" selection-end-line="180" selection-end-column="53" />
+        <state relative-caret-position="300">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11160">
+          <caret line="744" column="7" selection-start-line="640" selection-start-column="4" selection-end-line="744" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/depthCollapse_subWindow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/depthCollapse_Treemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/phyTreemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/newickParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/newickParser_BS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15480">
+          <caret line="1032" column="27" selection-start-line="1032" selection-start-column="27" selection-end-line="1032" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/readFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/UI/custom_Controls_V1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/test.html" />
+    <entry file="file://$PROJECT_DIR$/data/1K.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/TEST.TXT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11528" selection-start-line="0" selection-start-column="11528" selection-end-line="0" selection-end-column="11528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/mkdocs.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/8k.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="0" column="2818" selection-start-line="0" selection-start-column="2818" selection-end-line="0" selection-end-column="2818" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Interface_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/readFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/d3-scale-chromatic.js" />
+    <entry file="file://$PROJECT_DIR$/js/newickParser_BS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/depthCollapse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/depthCollapse_subWindow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/depthCollapse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="383" column="0" selection-start-line="383" selection-start-column="0" selection-end-line="393" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/newickParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/treeRender.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="202" column="48" selection-start-line="202" selection-start-column="48" selection-end-line="202" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom_DOI.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="139" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom_Controls_V1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="363" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="644">
+            <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/depthCollapse_Treemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/treeMap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/hybridtree_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/depthCollapse_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/phyTreemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="450" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/treemap_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/treemap_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="515" column="6" selection-start-line="515" selection-start-column="6" selection-end-line="540" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/doi_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/doi_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/doi_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/phyTreemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="85" column="25" selection-start-line="85" selection-start-column="25" selection-end-line="93" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/doiTree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/depthCollapse_subWindow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="109" column="55" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="55" />
           <folding />
         </state>
       </provider>

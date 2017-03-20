@@ -31,7 +31,8 @@ function parseNewick(a) {
                 break;
             default:
                 var h = s[t - 1];
-                ")" == h || "(" == h || "," == h ? r.name = n : ":" == h ? (r.length = parseFloat(n)) : "[" == h && (r.bs = parseFloat(n));
+                ")" == h || "(" == h || "," == h ? r.names = n : ":" == h ? (r.length = parseFloat(n)) : "[" == h && (r.bs = parseFloat(n));
+                console.log(s);
 
         }
     }

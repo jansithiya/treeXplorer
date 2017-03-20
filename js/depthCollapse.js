@@ -1,7 +1,6 @@
 /**
  *
  *
- *
  */
 
 var jsonTree, rootTree, branchInclude, maxDepth;
@@ -80,7 +79,7 @@ function render(hTree, activeWindow, activeDocument) {
 
     treeLayout(root);
 
-    branchInclude = root.descendants().slice(1).forEach(function(d){
+    branchInclude = root.descendants().slice(1).forEach(function (d) {
 
         return d.y = d.parent.y + (d.data.length) * dyFactor;
     });
@@ -147,24 +146,14 @@ function render(hTree, activeWindow, activeDocument) {
 
         // Transition to new position
 
-              nodeUpdate.transition()
+        nodeUpdate.transition()
             .duration(duration)
             .attr("transform", function (d) {
                 return "translate(" + d.y + "," + d.x + ")"
             });
 
         nodeUpdate.select("circle.node")
-            .attr('r', function (d) {
-                if (d._children) {
-                    return 2;
-                }
-                else if (d.leaves == null) {
-                    return 2;
-                }
-                else {
-                    return 1e-6;
-                }
-            });
+            .attr('r', 0);
 
 
         nodeUpdate.select('path')

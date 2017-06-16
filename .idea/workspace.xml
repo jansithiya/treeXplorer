@@ -2,17 +2,209 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48bde673-f16c-4399-ad00-1ac542b41d82" name="Default" comment="Newick parser that handles bootstrap value">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/doi_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/doi_1.png" afterPath="$PROJECT_DIR$/assets/doi_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/treemap_1.png" afterPath="$PROJECT_DIR$/assets/treemap_1.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/membermeister.png" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/membermeister.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/snapappointments.png" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/snapappointments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/solveforall.png" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/solveforall.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/thermofisher.png" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/img/logos/thermofisher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/.gitignore" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/CHANGELOG.md" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/Gruntfile.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/LICENSE" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/README.md" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/bower.json" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/composer.json" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.css" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.css.map" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.min.css" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/css/bootstrap-select.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.js.map" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/bootstrap-select.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ar_AR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ar_AR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ar_AR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ar_AR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-bg_BG.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-bg_BG.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-bg_BG.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-bg_BG.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cro_CRO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cro_CRO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cro_CRO.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cro_CRO.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cs_CZ.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cs_CZ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cs_CZ.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-cs_CZ.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-da_DK.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-da_DK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-da_DK.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-da_DK.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-de_DE.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-de_DE.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-de_DE.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-de_DE.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-en_US.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-en_US.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-en_US.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-en_US.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-es_CL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-es_CL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-es_CL.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-es_CL.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-eu.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-eu.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-eu.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fa_IR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fa_IR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fa_IR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fa_IR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fi_FI.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fi_FI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fi_FI.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fi_FI.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fr_FR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fr_FR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fr_FR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-fr_FR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-hu_HU.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-hu_HU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-hu_HU.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-hu_HU.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-id_ID.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-id_ID.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-id_ID.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-id_ID.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-it_IT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-it_IT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-it_IT.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-it_IT.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ko_KR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ko_KR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ko_KR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ko_KR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-lt_LT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-lt_LT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-lt_LT.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-lt_LT.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nb_NO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nb_NO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nb_NO.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nb_NO.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nl_NL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nl_NL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nl_NL.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-nl_NL.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pl_PL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pl_PL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pl_PL.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pl_PL.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_BR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_BR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_BR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_BR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_PT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_PT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_PT.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-pt_PT.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ro_RO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ro_RO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ro_RO.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ro_RO.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ru_RU.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ru_RU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ru_RU.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ru_RU.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sk_SK.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sk_SK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sk_SK.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sk_SK.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sl_SI.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sl_SI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sl_SI.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sl_SI.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sv_SE.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sv_SE.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sv_SE.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-sv_SE.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-tr_TR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-tr_TR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-tr_TR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-tr_TR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ua_UA.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ua_UA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ua_UA.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-ua_UA.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_CN.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_CN.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_CN.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_CN.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_TW.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_TW.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/dist/js/i18n/defaults-zh_TW.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/base.html" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/css/base.css" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/js/base.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/js/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/nav.html" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/toc.html" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/custom_theme/toc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/css/custom.css" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.css" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.css.map" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.min.css" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/css/bootstrap-select.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.js.map" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/bootstrap-select.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ar_AR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ar_AR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ar_AR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ar_AR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-bg_BG.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-bg_BG.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-bg_BG.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-bg_BG.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cro_CRO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cro_CRO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cro_CRO.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cro_CRO.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cs_CZ.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cs_CZ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cs_CZ.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-cs_CZ.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-da_DK.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-da_DK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-da_DK.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-da_DK.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-de_DE.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-de_DE.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-de_DE.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-de_DE.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-en_US.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-en_US.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-en_US.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-en_US.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-es_CL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-es_CL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-es_CL.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-es_CL.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-eu.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-eu.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-eu.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fa_IR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fa_IR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fa_IR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fa_IR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fi_FI.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fi_FI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fi_FI.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fi_FI.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fr_FR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fr_FR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fr_FR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-fr_FR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-hu_HU.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-hu_HU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-hu_HU.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-hu_HU.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-id_ID.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-id_ID.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-id_ID.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-id_ID.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-it_IT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-it_IT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-it_IT.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-it_IT.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ko_KR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ko_KR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ko_KR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ko_KR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-lt_LT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-lt_LT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-lt_LT.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-lt_LT.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nb_NO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nb_NO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nb_NO.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nb_NO.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nl_NL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nl_NL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nl_NL.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-nl_NL.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pl_PL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pl_PL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pl_PL.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pl_PL.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_BR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_BR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_BR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_BR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_PT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_PT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_PT.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-pt_PT.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ro_RO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ro_RO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ro_RO.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ro_RO.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ru_RU.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ru_RU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ru_RU.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ru_RU.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sk_SK.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sk_SK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sk_SK.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sk_SK.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sl_SI.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sl_SI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sl_SI.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sl_SI.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sv_SE.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sv_SE.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sv_SE.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-sv_SE.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-tr_TR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-tr_TR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-tr_TR.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-tr_TR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ua_UA.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ua_UA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ua_UA.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-ua_UA.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_CN.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_CN.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_CN.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_CN.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_TW.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_TW.min.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/dist/js/i18n/defaults-zh_TW.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/examples.md" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/examples.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/index.md" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/methods.md" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/methods.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/options.md" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/docs/options.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/mkdocs.yml" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/mkdocs.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/.jshintrc" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/bootstrap-select.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/bootstrap-select.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ar_AR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ar_AR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-bg_BG.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-bg_BG.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-cro_CRO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-cro_CRO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-cs_CZ.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-cs_CZ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-da_DK.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-da_DK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-de_DE.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-de_DE.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-en_US.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-en_US.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-es_CL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-es_CL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-eu.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fa_IR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fa_IR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fi_FI.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fi_FI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fr_FR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-fr_FR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-hu_HU.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-hu_HU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-id_ID.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-id_ID.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-it_IT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-it_IT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ko_KR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ko_KR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-lt_LT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-lt_LT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-nb_NO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-nb_NO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-nl_NL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-nl_NL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pl_PL.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pl_PL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pt_BR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pt_BR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pt_PT.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-pt_PT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ro_RO.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ro_RO.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ru_RU.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ru_RU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sk_SK.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sk_SK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sl_SI.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sl_SI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sv_SE.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-sv_SE.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-tr_TR.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-tr_TR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ua_UA.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-ua_UA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-zh_CN.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-zh_CN.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-zh_TW.js" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/js/i18n/defaults-zh_TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/less/bootstrap-select.less" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/less/bootstrap-select.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/less/variables.less" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/nuget/MyGet.ps1" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/nuget/MyGet.ps1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/nuget/bootstrap-select.nuspec" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/nuget/bootstrap-select.nuspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/package.json" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/sass/bootstrap-select.scss" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/sass/bootstrap-select.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/sass/variables.scss" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/sass/variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/test.html" afterPath="$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/test.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/depthCollapse.js" afterPath="$PROJECT_DIR$/js/depthCollapse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/newickParser.js" afterPath="$PROJECT_DIR$/js/newickParser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/newickParser_BS.js" afterPath="$PROJECT_DIR$/js/newickParser_BS.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/depthCollapse.html" afterPath="$PROJECT_DIR$/pages/depthCollapse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/depthCollapse_Treemap.html" afterPath="$PROJECT_DIR$/pages/depthCollapse_Treemap.html" />
     </list>
     <ignored path="phyXplorer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +216,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -41,35 +232,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="doiTree.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/doiTree.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doi_1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/doi_1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doi_2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/doi_2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="phyTreemap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/phyTreemap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="85" column="25" selection-start-line="85" selection-start-column="25" selection-end-line="93" selection-end-column="33" />
+            <state relative-caret-position="765">
+              <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -78,17 +245,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="109" column="55" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="55" />
+            <state relative-caret-position="280">
+              <caret line="107" column="28" lean-forward="true" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="treemap_2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/treemap_2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -99,28 +259,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doi_Calculation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
+      <file leaf-file-name="Interface_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/Interface_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hybridtree_1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/hybridtree_1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treemap_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/treemap_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="depthCollapse_Treemap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="515" column="6" selection-start-line="515" selection-start-column="6" selection-end-line="540" selection-end-column="11" />
+            <state relative-caret-position="7365">
+              <caret line="491" column="31" lean-forward="false" selection-start-line="491" selection-start-column="31" selection-end-line="491" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="depthCollapse_1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/depthCollapse_1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="depthCollapse_Treemap.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/depthCollapse_Treemap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="phyTreemap.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/phyTreemap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="450" selection-end-column="7" />
+            <state relative-caret-position="495">
+              <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -160,11 +354,11 @@
         <option value="$PROJECT_DIR$/css/custom_DOI.css" />
         <option value="$PROJECT_DIR$/js/doi_Calculation.js" />
         <option value="$PROJECT_DIR$/pages/doiTree.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/js/vendor/d3-scale-chromatic.js" />
         <option value="$PROJECT_DIR$/pages/phyTreemap.html" />
         <option value="$PROJECT_DIR$/css/treeMap.css" />
         <option value="$PROJECT_DIR$/js/phyTreemap.js" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -182,18 +376,9 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="815" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -216,29 +401,9 @@
               <option name="myItemId" value="phyXplorer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -248,45 +413,17 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phyXplorer" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,6 +433,9 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/Cellar/node/5.5.0/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -307,19 +447,54 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -332,10 +507,23 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -370,7 +558,17 @@
       <workItem from="1489740884528" duration="765000" />
       <workItem from="1489776240227" duration="2258000" />
       <workItem from="1490001258556" duration="3432000" />
-      <workItem from="1490017206508" duration="426000" />
+      <workItem from="1490017206508" duration="443000" />
+      <workItem from="1494229987096" duration="577000" />
+      <workItem from="1494259702920" duration="155000" />
+      <workItem from="1494259942427" duration="836000" />
+      <workItem from="1494262172624" duration="216000" />
+      <workItem from="1494508587176" duration="9465000" />
+      <workItem from="1494662037337" duration="379000" />
+      <workItem from="1494803442373" duration="600000" />
+      <workItem from="1497106052376" duration="1398000" />
+      <workItem from="1497468253506" duration="349000" />
+      <workItem from="1497621404878" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1488901300098</created>
@@ -547,11 +745,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489537385819</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Newick parser that handles bootstrap value">
+      <created>1490017733358</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1490017733358</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111750000" />
+    <option name="totallyTimeSpent" value="126489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -563,28 +768,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="815" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23396759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08655222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847682" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14107884" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08655222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -615,14 +822,14 @@
     <MESSAGE value="more readme" />
     <MESSAGE value="readme" />
     <MESSAGE value="init" />
-    <MESSAGE value="Newick parser that handles bootstrap value" />
     <MESSAGE value="treemap with color scheme" />
     <MESSAGE value="all link" />
     <MESSAGE value="complete tooltip" />
     <MESSAGE value="Added all controls" />
     <MESSAGE value="Complete styling for treemap" />
     <MESSAGE value="Updated custom" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated custom" />
+    <MESSAGE value="Newick parser that handles bootstrap value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newick parser that handles bootstrap value" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -631,178 +838,138 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/js/depthCollapse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/depthCollapse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11160">
-          <caret line="744" column="7" selection-start-line="640" selection-start-column="4" selection-end-line="744" selection-end-column="7" />
-          <folding />
+          <caret line="744" column="7" lean-forward="false" selection-start-line="640" selection-start-column="4" selection-end-line="744" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/depthCollapse_subWindow.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="16" selection-end-column="64" />
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="16" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/depthCollapse_Treemap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
-          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/phyTreemap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/newickParser.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="3" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="12" column="3" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/newickParser_BS.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15480">
-          <caret line="1032" column="27" selection-start-line="1032" selection-start-column="27" selection-end-line="1032" selection-end-column="27" />
-          <folding />
+          <caret line="1032" column="27" lean-forward="false" selection-start-line="1032" selection-start-column="27" selection-end-line="1032" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/readFile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/UI/custom_Controls_V1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/test.html" />
-    <entry file="file://$PROJECT_DIR$/data/1K.txt">
+    <entry file="file://$PROJECT_DIR$/data/1K_leaves.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/TEST.TXT">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11528" selection-start-line="0" selection-start-column="11528" selection-end-line="0" selection-end-column="11528" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/vendor/bootstrap-3.3.7/bootstrap-select-1.11.2/docs/mkdocs.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/8k.txt">
+    <entry file="file://$PROJECT_DIR$/data/8K_leaves.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="0" column="2818" selection-start-line="0" selection-start-column="2818" selection-end-line="0" selection-end-column="2818" />
+          <caret line="0" column="2818" lean-forward="false" selection-start-line="0" selection-start-column="2818" selection-end-line="0" selection-end-column="2818" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/Interface_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/readFile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -810,160 +977,76 @@
     <entry file="file://$PROJECT_DIR$/js/newickParser_BS.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/depthCollapse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/depthCollapse_subWindow.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/depthCollapse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="746">
-          <caret line="383" column="0" selection-start-line="383" selection-start-column="0" selection-end-line="393" selection-end-column="1" />
+          <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="393" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/newickParser.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
-          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+          <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/treeRender.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3030">
-          <caret line="202" column="48" selection-start-line="202" selection-start-column="48" selection-end-line="202" selection-end-column="48" />
-          <folding />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom_DOI.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
-          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="139" selection-end-column="1" />
-          <folding />
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="139" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom_Controls_V1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
-          <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="363" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="644">
-            <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/depthCollapse_Treemap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-          <folding />
+          <caret line="359" column="0" lean-forward="false" selection-start-line="359" selection-start-column="0" selection-end-line="363" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/treeMap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-          <folding />
+          <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/hybridtree_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/depthCollapse_1.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/phyTreemap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="435" column="0" selection-start-line="435" selection-start-column="0" selection-end-line="450" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/treemap_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/treemap_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="515" column="6" selection-start-line="515" selection-start-column="6" selection-end-line="540" selection-end-column="11" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/doi_1.png">
@@ -981,26 +1064,109 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/phyTreemap.html">
+    <entry file="file://$PROJECT_DIR$/pages/doiTree.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="85" column="25" selection-start-line="85" selection-start-column="25" selection-end-line="93" selection-end-column="33" />
+        <state relative-caret-position="1155">
+          <caret line="77" column="45" lean-forward="false" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/doi_Calculation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7665">
+          <caret line="515" column="6" lean-forward="false" selection-start-line="515" selection-start-column="6" selection-end-line="540" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/doiTree.html">
+    <entry file="file://$PROJECT_DIR$/data/TEST.TXT">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="77" column="45" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="0" column="11528" lean-forward="false" selection-start-line="0" selection-start-column="11528" selection-end-line="0" selection-end-column="11528" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/readFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/depthCollapse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="172" column="23" lean-forward="false" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/phyTreemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/phyTreemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/depthCollapse_Treemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="35" lean-forward="false" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/depthCollapse_Treemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7365">
+          <caret line="491" column="31" lean-forward="false" selection-start-line="491" selection-start-column="31" selection-end-line="491" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Interface_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/hybridtree_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/treemap_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/treemap_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="109" column="55" selection-start-line="109" selection-start-column="55" selection-end-line="109" selection-end-column="55" />
+        <state relative-caret-position="280">
+          <caret line="107" column="28" lean-forward="true" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
           <folding />
         </state>
       </provider>

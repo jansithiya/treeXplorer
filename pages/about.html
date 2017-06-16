@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1 id="treexplorer"><strong>treeXplorer</strong></h1>
+
+<p>treeXplorer interface allows to visualize and explore the newick formatted phylogenetic trees based on different hierarchical data visual designs (node-link, treemap and a hybrid layout) in browser.</p>
+
+<h1 id="browserrequirements"><strong>Browser Requirements</strong></h1>
+
+<p>treeXplorer uses JavaScript, HTML5 and svg element to visualize the phylogenetic tree. So it recommended to use modern browsers like chrome, firefox and safari, however, it is highly recommended to use Google Chrome as the application has been extensively tested in Chrome at the moment and also seem to offer the best performance.</p>
+
+<h1 id="dataformat"><strong>Data format</strong></h1>
+
+<p>At the moment all the interfaces within treeXplorer only supports <a href="http://evolution.genetics.washington.edu/phylip/newicktree.html">Newick</a> formatted phylogenetic tree. Upload only the tree file in Newick tree format as below.</p>
+
+<p><b>Example trees </p>
+
+<p></b></p>
+
+<ul>
+    <li>(B:6.0,(A:5.0,C:3.0,E:4.0):5.0,D:11.0);
+    <li>((A,B),(C,D));
+</ul>
+
+<h1 id="interface"><strong>Interface</strong></h1>
+
+<p>The user interface is quite similar for different tree layout/visualizations that comes as a part of phyXlporer and the different sections of the interface are outlined below</p>
+
+<h3 id="1treeinput">1. Tree Input</h3>
+
+<p>The glyphicon on the navbar in the top right where the end user uploads the tree in "Newick" format as described above</p>
+
+<h3 id="2maintreedisplayvisualization">2. Main Tree Display (Visualization)</h3>
+
+<p>Normally the div where the tree is rendered or displayed is in the center to the left of the paramters control and just below the navigation bar on the top</p>
+
+<h3 id="3parameterscontrol">3. Parameters Control</h3>
+
+<p>Displays all html elements to control the tree related parameters in display level such as dendogram or regular phylogram; Also the input to collapse the depth of the tree and other styling attributes
+    depending on the display layout chosen</p>
+
+<h3 id="4sizecontrol">4. Size Control</h3>
+
+<p>Used to change the display size of the tree such as increase the width and height of the tree and the viceversa</p>
+
+<p><img src="../assets/Interface_2.png" alt="alt text" title="treeXplorer User Interface" /></p>
+
+<h1 id="treelayoutdesigns"><strong>Tree Layout Designs</strong></h1>
+
+<h3 id="1depthcollapsetreelayout">1. Depth Collapse Tree Layout</h3>
+
+<h3 id="2hybridtreelayout">2. Hybrid Tree Layout</h3>
+
+<h3 id="3degreeofinteresttreelayout">3. Degree of Interest Tree Layout</h3>
+
+<h3 id="4treemaplayout">4. TreeMap Layout</h3>
+
+<h1 id="codeflowhowitworks"><strong>Code Flow &amp; How it Works</strong></h1>
+
+<p>As stated before treeXplorer makes use of browser to visualize and therefore we make use of JavaScript, SVG and Bootstrap for styling.</p>
+
+<h4 id="keydependencies">Key Dependencies</h4>
+
+<ul>
+    <li> <a href="https://d3js.org/">D3.js </a>
+    <li> <a href="https://jquery.com/"> jQuery </a>
+</ul>
+
+<p>All the external libraries used are under <b>vendor </b>directory for both css and js</p>
+
+<p>The four key blocks of each app is "reading and parsing data", "apply initial settings", "core computations" and "render/draw". The flow is more or less the same across the visual layout JavaScript files</p>
+
+<h5 id="readingandparsing">Reading and Parsing</h5>
+
+<p>The main JavaScript file for each design discussed starts by getting the Newick input data read(readFile.js)from the browser and the read data is passed to parseNewick which converts the Newick to hierarchical JSON structure. parseNewick utilizes regular expression for the same.</p>
+
+<pre><code class="javascript language-javascript">function getData(input) {
+
+    tree = parseNewick(input);
+    initialSettings();
+}
+</code></pre>
+
+<h5 id="initialsettingsblock">Initial Settings Block</h5>
+
+<p>The code within this applies default settings to the html elements in the sidebar (parameter controls). For example the depth max and min value computed from the tree data passed to hierarchy layout is used to define min, max and default value of the depth collapse slider
+    The block also defines basic tree attributes which will be used in the later blocks.
+    The block sample below.</p>
+
+<pre><code class="javascript language-javascript">function initialSettings() {
+
+       d3.hierarchy(tree);
+       document.getElementById("depthSlider").value = maxDepth/2;
+       render();
+ }
+</code></pre>
+
+<h5 id="corecomputations">Core Computations</h5>
+
+<p>The block contains functions that computes advanced tree attributes that gets added to the nodes. This includes collapsing nodes by depth level, uncollapsing, finding highest collapsed node at an instance, find the longest branch length, etc., that has to do only with the parameters or value not the drawing itself</p>
+
+<h6 id="example">Example</h6>
+
+<pre><code class="javascript language-javascript">function findHighestCollapsed(d) {
+    if (d.parent) {
+        if (d._children &amp;amp;amp;&amp;amp;amp; d.parent.children) {
+            return d;
+        } else {
+            return (findHighestCollapsed(d.parent));
+        }
+    } else {
+        return d;
+    }
+}
+</code></pre>
+
+<h5 id="renderdraw">Render/Draw</h5>
+
+<p>The render block actually draws the tree on browser leveraging mainly D3.js library and svg. The render function also comprises of updateTree block that gets executed every time a parameter is changed and redraws the tree in display area.
+    Render block also contains the function that does some action when a change is detected in any of the html input elements such as slider, button, etc.,</p>
+
+<p>The updateTree block is all about entering,updating and exiting elements in the div which is core idea of d3 in aligning data with the elements we use to represent the data such as circle, rectangle.
+    every time we filter the data and if we end up with more elements than needed then we use exit() selection to remove the additional elements from the view, similarly if we have need more elements to be added then we use enter</p>
+
+<h6 id="example-1">Example</h6>
+
+<pre><code class="javascript language-javascript">function render(){
+
+    var drawSvg = d3.select("#visual").append("svg")
+        .style("width", width)
+        .style("height", height);
+
+          function updateTree(){
+
+          // enter, update and exit nodes and link of tree, rectangle, etc., that are part of the layout
+
+             var node = svg.selectAll('g.node')
+                         .data(nodes);
+
+             var enterNode = node.enter().append("circle");
+
+
+             var updateNode = node.select("cirlce")
+                         .attr("r",4);  //transition to new radius
+
+             var exitNode = node.exit().remove(); //remove when collapsed the nodes not needed
+
+          }
+
+        //Action on change in slider input
+        d3.select("#depthSlider").on("input", function () {
+
+            //some code to uncollapse or change the depth filter value
+              updateTree(); //redraw tree
+        });
+
+    }
+</code></pre>
+</body>
+</html>
